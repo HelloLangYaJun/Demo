@@ -1,0 +1,31 @@
+﻿
+body {
+    overflow:hidden;
+}
+#divbird img {
+    width:100px;
+    height:100px;
+    background-size:100% 100%;
+}
+
+#divbird {
+    position:absolute;
+}
+
+.dir_37 {
+    transform:rotateY(180deg);
+}
+.dir_38 {
+    transform:rotate(-30deg);
+}
+.dir_40 {
+    transform:rotate(60deg);
+}
+ div p {
+
+    
+     width:300px;
+   
+    margin:0 auto;
+    
+}

@@ -1,0 +1,53 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+  background-color: #fcc;
+}
+span{
+	position: absolute;
+	color: #000;
+	left: 240px;
+	top: 20px;
+	font-size: 16px;
+}
+.pic{
+
+	position: absolute;
+}
+.pic img{
+	border:3px solid #fff;
+	border-radius: 10px;/*圆角*/
+	box-shadow: 3px 3px 3px #ffc;/*阴影*/
+}
+.pic1{
+	top: 50px;
+	left: 50px;
+	z-index: 1;
+
+}
+.pic2{
+	top: 100px;
+	left: 140px;
+	z-index: 2;
+
+}
+.pic3{
+	top: 150px;
+	left: 240px;
+	z-index: 3;
+
+}
+.pic4{
+	top: 100px;
+	left: 340px;
+	z-index: 2;
+
+}
+.pic5{
+	top: 50px;
+	left: 430px;
+	z-index: 1;
+
+}
